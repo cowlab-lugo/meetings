@@ -2,6 +2,12 @@
 
 Enlaces, apuntes y otras cosas interesantes que surgieron durante la segunda reunión.
 
+## Juan Carlos
+
+Charla sobre seguridad wifi:
+
+- [Pdf de la charla](https://github.com/cowlab-lugo/meetings/blob/master/20171117/slides/Cowlab2-Seguridad%20Wifi.pdf)
+
 ## Andrés
 
 Problema con semver/npm:

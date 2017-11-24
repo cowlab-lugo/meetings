@@ -1,4 +1,4 @@
-# Cowlab #2
+# Reunión cowlab - 2
 
 Enlaces, apuntes y otras cosas interesantes que surgieron durante la segunda reunión.
 
